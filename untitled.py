@@ -14,8 +14,7 @@ import statistics
 import plotly.express as px
 import random
 import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
+
 
 from PIL import Image
 
